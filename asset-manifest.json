@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple-Force-Directed/static/css/main.d3cf85e1.css",
+    "main.js": "/Simple-Force-Directed/static/js/main.69819a21.js",
+    "index.html": "/Simple-Force-Directed/index.html",
+    "main.d3cf85e1.css.map": "/Simple-Force-Directed/static/css/main.d3cf85e1.css.map",
+    "main.69819a21.js.map": "/Simple-Force-Directed/static/js/main.69819a21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3cf85e1.css",
+    "static/js/main.69819a21.js"
+  ]
+}
